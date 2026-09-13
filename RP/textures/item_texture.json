@@ -1,5 +1,41 @@
 {
-	"resource_pack_name": "L_Inothershark's Catastrophe",
+	"resource_pack_name": "L_Inotheshark's Catastrophe",
 	"texture_name": "atlas.items",
-	"texture_data": {}
+	"texture_data": {
+		/*
+		
+		BOSSETIUM
+		
+		*/
+		"bossetium_ingot": {
+			"textures": "textures/items/bossetium/bossetium_ingot"
+		},
+		"bossetium_sword": {
+			"textures": "textures/items/bossetium/bossetium_sword"
+		},
+		"bossetium_pickaxe": {
+			"textures": "textures/items/bossetium/bossetium_pickaxe"
+		},
+		"bossetium_axe": {
+			"textures": "textures/items/bossetium/bossetium_axe"
+		},
+		"bossetium_shovel": {
+			"textures": "textures/items/bossetium/bossetium_shovel"
+		},
+		"bossetium_hoe": {
+			"textures": "textures/blocks/bossetium/bossetium_ore"
+		},
+		"bossetium_boots": {
+			"textures": "textures/items/bossetium/bossetium_boots"
+		},
+		"bossetium_leggings": {
+			"textures": "textures/items/bossetium/bossetium_leggings"
+		},
+		"bossetium_chestplate": {
+			"textures": "textures/items/bossetium/bossetium_chestplate"
+		},
+		"bossetium_helmet": {
+			"textures": "textures/items/bossetium/bossetium_helmet"
+		}
+	}
 }
