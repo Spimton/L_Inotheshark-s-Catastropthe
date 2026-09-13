@@ -1,0 +1,29 @@
+
+##Blocchi
+
+##Bossetium
+
+tile.spimton:bossetium_block.name=Blocco di Bossezio
+tile.spimton:bossetium_grates.name=Grata di Bossezio
+tile.spimton:bossetium_pillar.name=Pilastro di Bossezio
+tile.spimton:cut_bossetium.name=Bossezio Intagliato
+tile.spimton:cut_bossetium_stairs.name=Scale di Bossezio Intagliato
+tile.spimton:cut_bossetium_slab.name=Lastra di Bossezio Intagliato
+tile.spimton:indented_bossetium.name=Bossezio Indentato
+tile.spimton:indented_bossetium_stairs.name=Scale di Bossezio Indentato
+tile.spimton:indented_bossetium_slab.name=Lastra di Bossezio Indentato
+tile.spimton:bossetium_ore.name=Minerale di Bossezio
+tile.spimton:deepslate_bossetium_ore.name=Minerale di Bossezio di Ardesia
+
+
+
+##Oggetti
+
+##Bossetium
+
+item.spimton:bossetium_ingot.name=Lingotto di Bossezio
+item.spimton:bossetium_sword.name=Spada di Bossezio
+item.spimton:bossetium_pickaxe.name=Piccozza di Bossezio
+item.spimton:bossetium_shovel.name=Pala di Bossezio
+item.spimton:bossetium_axe.name=Ascia di Bossezio
+item.spimton:bossetium_spear.name=Lancia di Bossezio

@@ -1,0 +1,40 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "L_Inothershark's Catastrophe",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		/*
+
+		BOSSETIUM
+
+		*/
+		"bossetium_block": {
+			"textures": "textures/blocks/bossetium/bossetium_block_flipbook"
+		},
+		"bossetium_grates": {
+			"textures": "textures/blocks/bossetium/bossetium_grates"
+		},
+		"cut_bossetium": {
+			"textures": "textures/blocks/bossetium/cut_bossetium"
+		},
+		"bossetium_pillar_side": {
+			"textures": "textures/blocks/bossetium/bossetium_pillar_side"
+		},
+		"bossetium_pillar_top": {
+			"textures": "textures/blocks/bossetium/bossetium_pillar_top"
+		},
+		"polished_bossetium": {
+			"textures": "textures/blocks/bossetium/polished_bossetium"
+		},
+		"indented_bossetium": {
+			"textures": "textures/blocks/bossetium/indented_bossetium"
+		},
+		"bossetium_ore": {
+			"textures": "textures/blocks/bossetium/bossetium_ore"
+		},
+		"deepslate_bossetium_ore": {
+			"textures": "textures/blocks/bossetium/deepslate_bossetium_ore"
+		}
+	}
+}

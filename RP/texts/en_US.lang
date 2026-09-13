@@ -1,0 +1,29 @@
+
+##Blocks
+
+##Bossetium
+
+tile.spimton:bossetium_block.name=Block of Bossetium
+tile.spimton:bossetium_grates.name=Bossetium Grate
+tile.spimton:bossetium_pillar.name=Bossetium Pillar
+tile.spimton:cut_bossetium.name=Cut Bossetium
+tile.spimton:cut_bossetium_stairs.name=Cut Bossetium Stairs
+tile.spimton:cut_bossetium_slab.name=Cut Bossetium Slab
+tile.spimton:indented_bossetium.name=Indented Bossetium
+tile.spimton:indented_bossetium_stairs.name=Indented Bossetium Stairs
+tile.spimton:indented_bossetium_slab.name=Indented Bossetium Slab
+tile.spimton:bossetium_ore.name=Bossetium Ore
+tile.spimton:deepslate_bossetium_ore.name=Deepslate Bossetium Ore
+
+
+
+##Items
+
+##Bossetium
+
+item.spimton:bossetium_ingot.name=Bossetium Ingot
+item.spimton:bossetium_sword.name=Bossetium Sword
+item.spimton:bossetium_pickaxe.name=Bossetium Pickaxe
+item.spimton:bossetium_shovel.name=Bossetium Shovel
+item.spimton:bossetium_axe.name=Bossetium Axe
+item.spimton:bossetium_spear.name=Bossetium Spear

@@ -1,0 +1,72 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Spimton",
+			"Plinotheshark"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "L_Inothershark's Catastrophe",
+		"description": "",
+		"min_engine_version": [
+			1,
+			26,
+			30
+		],
+		"uuid": "7bd5d4b7-d903-4ea7-8dfd-cd15d6116c43",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "a9b3085c-bc77-4c33-8da4-98c8cc0864f6",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "152aeb0e-d6ea-4326-a2f5-c357b44c75cd",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "3e7527dc-0490-419c-9a0e-56bc166d1844",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"module_name": "@minecraft/server",
+			"version": "2.9.0"
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": "2.0.0"
+		}
+	]
+}
