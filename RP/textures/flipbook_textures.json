@@ -1,0 +1,86 @@
+[
+    {
+        "atlas_tile": "bossetium_block",
+        "flipbook_texture": "textures/blocks/bossetium/bossetium_block_flipbook",
+        "frames": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    },
+    {
+        "atlas_tile": "bossetium_grates",
+        "flipbook_texture": "textures/blocks/bossetium/bossetium_grates",
+        "frames": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    },
+    {
+        "atlas_tile": "cut_bossetium",
+        "flipbook_texture": "textures/blocks/bossetium/cut_bossetium",
+        "frames": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    },
+    {
+        "atlas_tile": "bossetium_pillar_side",
+        "flipbook_texture": "textures/blocks/bossetium/bossetium_pillar_side",
+        "frames": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    },
+    {
+        "atlas_tile": "bossetium_pillar_top",
+        "flipbook_texture": "textures/blocks/bossetium/bossetium_pillar_top",
+        "frames": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    },
+    {
+        "atlas_tile": "polished_bossetium",
+        "flipbook_texture": "textures/blocks/bossetium/polished_bossetium",
+        "frames": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    },
+    {
+        "atlas_tile": "indented_bossetium",
+        "flipbook_texture": "textures/blocks/bossetium/indented_bossetium",
+        "frames": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "ticks_per_frame": 20,
+        "blend_frames": true
+    }
+]
